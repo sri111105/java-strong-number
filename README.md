@@ -1,5 +1,7 @@
 # java-strong-number
 A simple Java program to check and print Strong Numbers (numbers equal to the sum of the factorial of their digits).
+
+
 import java.util.*;
 public class StrongNumbers {
     public static void main(String[] args) {
